@@ -1,0 +1,9 @@
+# Frontend ignores
+frontend/node_modules
+frontend/.next
+frontend/.env*
+frontend/.DS_Store
+
+# Backend ignores
+backend/application.properties
+backend/application.yml
